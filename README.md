@@ -1,1 +1,1 @@
-# react-graphql
+# GraphQL Playground
